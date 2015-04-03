@@ -1,0 +1,7 @@
+content selenium_jquery_locator chrome/content/
+
+#locale selenium_jquery_locator en-US chrome/locale/en-US/
+#locale selenium_jquery_locator zh-CN chrome/locale/zh-CN/
+
+# Custom format
+overlay chrome://selenium-ide/content/selenium-ide-common.xul chrome://selenium_jquery_locator/content/locators/jqueryLocator.xul
